@@ -1,0 +1,8 @@
+{
+  "name": "تحدي 100 سؤال كروي",
+  "description": "اختبار كرة قدم شامل يحتوي على 100 سؤال يغطي تاريخ كأس العالم، الأندية، الأساطير، وقوانين اللعبة، مع وقت محدد بـ 10 دقائق.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
